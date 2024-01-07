@@ -14,7 +14,7 @@
 }
 
 body {
-  background-image: url(img/club.svg);
+  background-image: url("img/club.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }

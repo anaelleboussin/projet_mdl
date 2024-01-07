@@ -15,7 +15,7 @@
 }
 
 body {
-  background-image: url(img/presentation.svg);
+  background-image: url("img/presentation.svg");
   background-size: 125%;
   background-repeat: no-repeat;
 }

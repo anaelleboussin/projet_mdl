@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url(img/main_bg.svg);
+  background-image: url("img/main_bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: 20%;
