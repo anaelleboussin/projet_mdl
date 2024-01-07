@@ -1,10 +1,10 @@
 @font-face {
   font-family: "Alumni";
-  src: url("/assets/AlumniSans-VariableFont_wght.ttf") format("truetype");
+  src: url("assets/AlumniSans-VariableFont_wght.ttf") format("truetype");
 }
 @font-face {
   font-family: "Galada";
-  src: url("/assets/Galada-Regular.ttf") format("truetype");
+  src: url("assets/Galada-Regular.ttf") format("truetype");
 }
 
 * {
@@ -14,7 +14,7 @@
 }
 
 body {
-  background-image: url(/img/club.svg);
+  background-image: url(img/club.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }

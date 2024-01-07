@@ -5,42 +5,42 @@
 const clubs = [
   {
     nom: "Club Argentique",
-    image: "/img/icon/argentique.svg", // lien vers l'image
+    image: "img/icon/argentique.svg", // lien vers l'image
     description: "photo , vidéo...",
   },
   {
     nom: "Club Numérique",
-    image: "/img/icon/numérique.svg",
+    image: "img/icon/numérique.svg",
     description: "Infra & réseau , web , cybersécurité...",
   },
   {
     nom: "Club plante",
-    image: "/img/icon/plante.svg",
+    image: "img/icon/plante.svg",
     description: "Bouture , rempotage , entretient ... ",
   },
   {
     nom: "Club cuisine",
-    image: "/img/icon/cuisine.svg",
+    image: "img/icon/cuisine.svg",
     description: "Cuisine , vente...",
   },
   {
     nom: "Club gaming",
-    image: "/img/icon/gaming.svg",
+    image: "img/icon/gaming.svg",
     description: "Arcade, rétro-découvertes, tournois",
   },
   {
     nom: "Club déco",
-    image: "/img/icon/déco.svg",
+    image: "img/icon/déco.svg",
     description: "Macramé , Ballon de basket upcyclé ",
   },
   {
     nom: "Club graph",
-    image: "/img/icon/graph.svg",
+    image: "img/icon/graph.svg",
     description: "Dessin , graph ...",
   },
   {
     nom: "Club musique",
-    image: "/img/icon/musique.svg",
+    image: "img/icon/musique.svg",
     description: "2h00 à 13h30 - 17h30 à 18h45 ",
   },
 ];

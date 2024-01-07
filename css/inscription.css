@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Alumni";
-  src: url("/assets/AlumniSans-VariableFont_wght.ttf") format("truetype");
+  src: url("assets/AlumniSans-VariableFont_wght.ttf") format("truetype");
 }
 
 * {
@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url(/img/inscription.svg);
+  background-image: url(img/inscription.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
